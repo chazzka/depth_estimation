@@ -1,0 +1,11 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+11_donors,407554,SUBSAMPLE_REGIME,0,continuous,3,0.0,1.0,adjusted_boxplot_range,,,0.0,0.23748,1.0,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+11_donors,407554,SUBSAMPLE_REGIME,1,binary_01,2,0.0,1.0,binary_01,0.0,1.0,,,,0,NA,10000,fallback
+11_donors,407554,SUBSAMPLE_REGIME,2,continuous,3,0.0,1.0,adjusted_boxplot_range,,,0.0,1.0,1.0,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+11_donors,407554,SUBSAMPLE_REGIME,3,binary_01,2,0.0,1.0,binary_01,0.0,1.0,,,,0,NA,10000,fallback
+11_donors,407554,SUBSAMPLE_REGIME,4,continuous,3,0.0,1.0,adjusted_boxplot_range,,,0.0,1.0,0.03777199999999997,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+11_donors,407554,SUBSAMPLE_REGIME,5,continuous,3,0.0,1.0,adjusted_boxplot_range,,,0.719735,1.0,-1.0,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+11_donors,407554,SUBSAMPLE_REGIME,6,continuous,3,0.0,1.0,adjusted_boxplot_range,,,0.0,0.0,1.0,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+11_donors,407554,SUBSAMPLE_REGIME,7,continuous,101,0.0,1.0,adjusted_boxplot_range,,,0.4,0.66,-0.058542000000000094,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+11_donors,407554,SUBSAMPLE_REGIME,8,continuous,67,0.0,0.715232,adjusted_boxplot_range,,,0.0,0.005148,1.0,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+11_donors,407554,SUBSAMPLE_REGIME,9,continuous,121,0.0,0.842105,adjusted_boxplot_range,,,0.006579,0.014346,0.1530835586455516,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot

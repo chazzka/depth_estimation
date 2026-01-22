@@ -1,0 +1,7 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+38_thyroid,2574,FULL_DATA_ONLY,0,continuous,91,0.0,1.0,adjusted_boxplot_range,,,0.376344086022,0.709677419355,-0.15254237288087483,2574,FULL_TRAIN,10000,adjusted_boxplot
+38_thyroid,2574,FULL_DATA_ONLY,1,continuous,224,0.0,0.218867924528,adjusted_boxplot_range,,,0.000943396226415,0.00433962264151,0.05263157894648755,2574,FULL_TRAIN,10000,adjusted_boxplot
+38_thyroid,2574,FULL_DATA_ONLY,2,continuous,67,0.0,1.0,adjusted_boxplot_range,,,0.156546489564,0.213472485769,-0.13548387097174294,2574,FULL_TRAIN,10000,adjusted_boxplot
+38_thyroid,2574,FULL_DATA_ONLY,3,continuous,197,0.0397196261682,0.864485981308,adjusted_boxplot_range,,,0.205607476636,0.282710280374,0.03333333333143114,2574,FULL_TRAIN,10000,adjusted_boxplot
+38_thyroid,2574,FULL_DATA_ONLY,4,continuous,135,0.0,0.896713615023,adjusted_boxplot_range,,,0.328638497653,0.413145539906,-0.03703703703119348,2574,FULL_TRAIN,10000,adjusted_boxplot
+38_thyroid,2574,FULL_DATA_ONLY,5,continuous,249,0.0245901639344,1.0,adjusted_boxplot_range,,,0.150819672131,0.2,0.011532125169838127,2574,FULL_TRAIN,10000,adjusted_boxplot

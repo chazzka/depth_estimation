@@ -1,0 +1,10 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+42_WBC,158,FULL_DATA_ONLY,0,categorical_low_card,7,1.0,8.0,minmax,1.0,8.0,,,,0,NA,10000,fallback
+42_WBC,158,FULL_DATA_ONLY,1,categorical_low_card,6,1.0,8.0,minmax,1.0,8.0,,,,0,NA,10000,fallback
+42_WBC,158,FULL_DATA_ONLY,2,categorical_low_card,8,1.0,8.0,minmax,1.0,8.0,,,,0,NA,10000,fallback
+42_WBC,158,FULL_DATA_ONLY,3,categorical_low_card,6,1.0,6.0,minmax,1.0,6.0,,,,0,NA,10000,fallback
+42_WBC,158,FULL_DATA_ONLY,4,categorical_low_card,8,1.0,10.0,minmax,1.0,10.0,,,,0,NA,10000,fallback
+42_WBC,158,FULL_DATA_ONLY,5,categorical_low_card,8,1.0,10.0,minmax,1.0,10.0,,,,0,NA,10000,fallback
+42_WBC,158,FULL_DATA_ONLY,6,categorical_low_card,7,1.0,7.0,minmax,1.0,7.0,,,,0,NA,10000,fallback
+42_WBC,158,FULL_DATA_ONLY,7,categorical_low_card,8,1.0,8.0,minmax,1.0,8.0,,,,0,NA,10000,fallback
+42_WBC,158,FULL_DATA_ONLY,8,categorical_low_card,5,1.0,7.0,minmax,1.0,7.0,,,,0,NA,10000,fallback

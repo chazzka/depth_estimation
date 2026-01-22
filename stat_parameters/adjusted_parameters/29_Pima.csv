@@ -1,0 +1,9 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+29_Pima,343,FULL_DATA_ONLY,0,categorical_low_card,14,0.0,13.0,minmax,0.0,13.0,,,,0,NA,10000,fallback
+29_Pima,343,FULL_DATA_ONLY,1,continuous,103,0.0,193.0,adjusted_boxplot_range,,,95.0,126.0,0.14285714285714285,343,FULL_TRAIN,10000,adjusted_boxplot
+29_Pima,343,FULL_DATA_ONLY,2,continuous,40,0.0,110.0,adjusted_boxplot_range,,,62.0,78.0,0.0,343,FULL_TRAIN,10000,adjusted_boxplot
+29_Pima,343,FULL_DATA_ONLY,3,continuous,44,0.0,54.0,adjusted_boxplot_range,,,0.0,30.0,-0.05263157894736842,343,FULL_TRAIN,10000,adjusted_boxplot
+29_Pima,343,FULL_DATA_ONLY,4,continuous,112,0.0,680.0,adjusted_boxplot_range,,,0.0,106.0,0.21818181818181817,343,FULL_TRAIN,10000,adjusted_boxplot
+29_Pima,343,FULL_DATA_ONLY,5,continuous,170,0.0,52.3,adjusted_boxplot_range,,,25.35,35.25,0.10638297872340406,343,FULL_TRAIN,10000,adjusted_boxplot
+29_Pima,343,FULL_DATA_ONLY,6,continuous,279,0.085,1.781,adjusted_boxplot_range,,,0.236,0.554,0.30434782608695665,343,FULL_TRAIN,10000,adjusted_boxplot
+29_Pima,343,FULL_DATA_ONLY,7,continuous,47,21.0,81.0,adjusted_boxplot_range,,,22.5,36.0,0.5,343,FULL_TRAIN,10000,adjusted_boxplot

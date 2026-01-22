@@ -1,0 +1,6 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+44_Wilt,3216,FULL_DATA_ONLY,0,continuous,3194,0.0,183.28125,adjusted_boxplot_range,,,118.52296455,134.961169075,-0.07091293573928172,3216,FULL_TRAIN,10000,adjusted_boxplot
+44_Wilt,3216,FULL_DATA_ONLY,1,continuous,2916,117.2105263,1848.916667,adjusted_boxplot_range,,,205.11884615,241.71674875,0.16158214024859677,3216,FULL_TRAIN,10000,adjusted_boxplot
+44_Wilt,3216,FULL_DATA_ONLY,2,continuous,2841,50.57894737,1594.583333,adjusted_boxplot_range,,,91.4132860025,115.9349445,0.3023534992870881,3216,FULL_TRAIN,10000,adjusted_boxplot
+44_Wilt,3216,FULL_DATA_ONLY,3,continuous,3132,86.5,1597.333333,adjusted_boxplot_range,,,421.732352975,644.0,0.021107705833236873,3216,FULL_TRAIN,10000,adjusted_boxplot
+44_Wilt,3216,FULL_DATA_ONLY,4,continuous,3209,0.0,154.5732476,adjusted_boxplot_range,,,17.8466992925,29.630273105,0.0710645897736758,3216,FULL_TRAIN,10000,adjusted_boxplot

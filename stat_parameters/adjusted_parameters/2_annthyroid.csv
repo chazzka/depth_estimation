@@ -1,0 +1,7 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+2_annthyroid,4707,FULL_DATA_ONLY,0,continuous,97,0.01,0.97,adjusted_boxplot_range,,,0.37,0.67,-0.13333333333333344,4707,FULL_TRAIN,10000,adjusted_boxplot
+2_annthyroid,4707,FULL_DATA_ONLY,1,continuous,218,0.0,0.136,adjusted_boxplot_range,,,0.00065,0.00232,0.08280254777070063,4707,FULL_TRAIN,10000,adjusted_boxplot
+2_annthyroid,4707,FULL_DATA_ONLY,2,continuous,76,0.0005,0.1329,adjusted_boxplot_range,,,0.018,0.022,-0.07058823529411762,4707,FULL_TRAIN,10000,adjusted_boxplot
+2_annthyroid,4707,FULL_DATA_ONLY,3,continuous,231,0.005,0.6,adjusted_boxplot_range,,,0.092,0.127,0.04166666666666669,4707,FULL_TRAIN,10000,adjusted_boxplot
+2_annthyroid,4707,FULL_DATA_ONLY,4,continuous,147,0.019,0.233,adjusted_boxplot_range,,,0.087,0.104,0.0,4707,FULL_TRAIN,10000,adjusted_boxplot
+2_annthyroid,4707,FULL_DATA_ONLY,5,continuous,355,0.00415,0.612,adjusted_boxplot_range,,,0.097,0.128,0.11302325581395353,4707,FULL_TRAIN,10000,adjusted_boxplot

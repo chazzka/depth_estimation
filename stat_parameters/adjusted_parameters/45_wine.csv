@@ -1,0 +1,14 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+45_wine,87,FULL_DATA_ONLY,0,continuous,72,11.03,14.34,adjusted_boxplot_range,,,12.205,13.17,0.07894736842105078,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,1,continuous,77,0.89,5.8,adjusted_boxplot_range,,,1.52,3.4400000000000004,0.10077519379844953,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,2,continuous,54,1.7,3.23,adjusted_boxplot_range,,,2.2,2.59,0.029411764705882373,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,3,continuous,31,15.0,30.0,adjusted_boxplot_range,,,18.9,22.5,0.0,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,4,continuous,38,78.0,151.0,adjusted_boxplot_range,,,87.5,103.0,0.0,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,5,continuous,65,1.1,3.5,adjusted_boxplot_range,,,1.57,2.34,0.13333333333333344,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,6,continuous,67,0.47,5.08,adjusted_boxplot_range,,,0.78,2.135,0.2021505376344084,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,7,continuous,31,0.13,0.63,adjusted_boxplot_range,,,0.29,0.52,-0.19999999999999973,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,8,continuous,57,0.41,2.91,adjusted_boxplot_range,,,1.0550000000000002,1.7349999999999999,0.07577497129735977,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,9,continuous,73,1.9,13.0,adjusted_boxplot_range,,,2.875,7.1,0.4606577783601402,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,10,continuous,56,0.48,1.71,adjusted_boxplot_range,,,0.69,1.07,0.06060606060606049,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,11,continuous,73,1.27,3.69,adjusted_boxplot_range,,,1.6749999999999998,2.99,0.09657986785853107,87,FULL_TRAIN,10000,adjusted_boxplot
+45_wine,87,FULL_DATA_ONLY,12,continuous,64,278.0,985.0,adjusted_boxplot_range,,,464.0,679.0,0.13043478260869565,87,FULL_TRAIN,10000,adjusted_boxplot

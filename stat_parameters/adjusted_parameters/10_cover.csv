@@ -1,0 +1,11 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+10_cover,198346,SUBSAMPLE_REGIME,0,continuous,1222,2142.0,3433.0,adjusted_boxplot_range,,,2794.0,3041.0,-0.10227272727272728,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+10_cover,198346,SUBSAMPLE_REGIME,1,continuous,361,0.0,360.0,adjusted_boxplot_range,,,60.0,241.0,0.2777777777777778,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+10_cover,198346,SUBSAMPLE_REGIME,2,continuous,65,0.0,66.0,adjusted_boxplot_range,,,8.0,18.0,0.07692307692307693,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+10_cover,198346,SUBSAMPLE_REGIME,3,continuous,535,0.0,1397.0,adjusted_boxplot_range,,,120.0,391.0,0.1702127659574468,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+10_cover,198346,SUBSAMPLE_REGIME,4,continuous,653,-173.0,601.0,adjusted_boxplot_range,,,8.0,66.0,0.30864197530864196,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+10_cover,198346,SUBSAMPLE_REGIME,5,continuous,5722,0.0,7117.0,adjusted_boxplot_range,,,1140.0,3409.0,0.2669683257918552,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+10_cover,198346,SUBSAMPLE_REGIME,6,continuous,201,0.0,254.0,adjusted_boxplot_range,,,201.0,232.0,-0.20987654320987653,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+10_cover,198346,SUBSAMPLE_REGIME,7,continuous,168,0.0,254.0,adjusted_boxplot_range,,,215.0,239.0,-0.07142857142857142,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+10_cover,198346,SUBSAMPLE_REGIME,8,continuous,254,0.0,253.0,adjusted_boxplot_range,,,120.0,167.0,0.04477611940298507,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+10_cover,198346,SUBSAMPLE_REGIME,9,continuous,5638,0.0,7173.0,adjusted_boxplot_range,,,1173.0,2657.0,0.1863905325443787,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot

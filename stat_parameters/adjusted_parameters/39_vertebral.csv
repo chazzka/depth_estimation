@@ -1,0 +1,7 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+39_vertebral,153,FULL_DATA_ONLY,0,continuous,152,26.15,118.14,adjusted_boxplot_range,,,49.71,77.23999999999998,-0.10405257393209151,153,FULL_TRAIN,10000,adjusted_boxplot
+39_vertebral,153,FULL_DATA_ONLY,1,continuous,146,-6.55,49.43,adjusted_boxplot_range,,,12.54,25.38,0.00955076052352309,153,FULL_TRAIN,10000,adjusted_boxplot
+39_vertebral,153,FULL_DATA_ONLY,2,continuous,148,14.0,125.74,adjusted_boxplot_range,,,42.2,70.56,-0.023069207622869008,153,FULL_TRAIN,10000,adjusted_boxplot
+39_vertebral,153,FULL_DATA_ONLY,3,continuous,145,13.37,79.7,adjusted_boxplot_range,,,34.38,55.18,-0.12338028169014079,153,FULL_TRAIN,10000,adjusted_boxplot
+39_vertebral,153,FULL_DATA_ONLY,4,continuous,152,70.08,163.07,adjusted_boxplot_range,,,108.63,124.06,-0.14960629921259808,153,FULL_TRAIN,10000,adjusted_boxplot
+39_vertebral,153,FULL_DATA_ONLY,5,continuous,153,-10.68,124.98,adjusted_boxplot_range,,,7.95,54.94,0.063782829397484,153,FULL_TRAIN,10000,adjusted_boxplot

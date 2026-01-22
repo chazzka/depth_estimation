@@ -1,0 +1,4 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+16_http,395688,SUBSAMPLE_REGIME,0,continuous,413,-2.302585092994045,8.098369250105083,adjusted_boxplot_range,,,-2.302585092994045,-2.302585092994045,-1.0,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+16_http,395688,SUBSAMPLE_REGIME,1,continuous,458,-2.302585092994045,10.906691489914584,adjusted_boxplot_range,,,5.380358076884246,5.723911845951367,0.181862008724193,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot
+16_http,395688,SUBSAMPLE_REGIME,2,continuous,18799,-2.302585092994045,16.277710867258435,adjusted_boxplot_range,,,6.487836213903822,8.351457323202663,0.049308903166214765,10000,SYSTEMATIC_SUBSAMPLE_SORTED,10000,adjusted_boxplot

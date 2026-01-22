@@ -1,0 +1,17 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+28_pendigits,4701,FULL_DATA_ONLY,0,continuous,3087,0.0,1.0,adjusted_boxplot_range,,,0.00918200520335,0.637891260573,0.2273578801750806,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,1,continuous,3433,0.0,1.0,adjusted_boxplot_range,,,0.756866389196,1.0,-0.22487432734035062,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,2,continuous,4316,0.0,1.0,adjusted_boxplot_range,,,0.259148847074,0.603004508624,0.020930965902990404,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,3,continuous,2711,0.0828885356307,1.0,adjusted_boxplot_range,,,0.751886610017,1.0,-0.5548098801831386,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,4,continuous,3551,0.0,1.0,adjusted_boxplot_range,,,0.2472665375,0.833699434805,-0.23343404733000006,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,5,continuous,4158,0.0,1.0,adjusted_boxplot_range,,,0.555761480047,0.882532772681,-0.1410232530079105,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,6,continuous,3863,0.0,1.0,adjusted_boxplot_range,,,0.273197290561,0.749617007789,-0.09206473871378038,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,7,continuous,3870,0.0,1.0,adjusted_boxplot_range,,,0.295454545455,0.68473393977,0.06533819413373926,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,8,continuous,3698,0.0,1.0,adjusted_boxplot_range,,,0.25404433113,0.841785477472,-0.05814109172935144,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,9,continuous,3700,0.0,1.0,adjusted_boxplot_range,,,0.0565596045532,0.559396232607,-0.0015014896238117353,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,10,continuous,3161,0.0,1.0,adjusted_boxplot_range,,,0.191342266846,0.95120952804,-0.36913932527231536,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,11,continuous,4141,0.0,1.0,adjusted_boxplot_range,,,0.0996157679026,0.51339461132,0.20501465356393406,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,12,continuous,4406,0.0,1.0,adjusted_boxplot_range,,,0.42002145956,0.681311206905,0.16970720083069907,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,13,continuous,3747,0.0,1.0,adjusted_boxplot_range,,,0.0474186981446,0.3800859378,-0.02260406960141142,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,14,continuous,2105,0.0,1.0,adjusted_boxplot_range,,,0.0,1.0,0.047221386642000096,4701,FULL_TRAIN,10000,adjusted_boxplot
+28_pendigits,4701,FULL_DATA_ONLY,15,continuous,2432,0.0,1.0,adjusted_boxplot_range,,,0.0,0.361666231139,0.7734846316630795,4701,FULL_TRAIN,10000,adjusted_boxplot

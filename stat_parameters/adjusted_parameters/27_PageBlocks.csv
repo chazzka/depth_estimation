@@ -1,0 +1,11 @@
+dataset,n_train,effective_mc_regime,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,q1,q3,medcouple,mc_n_used,mc_source,mc_export_n,param_strategy
+27_PageBlocks,3414,FULL_DATA_ONLY,0,continuous,44,1.0,87.0,adjusted_boxplot_range,,,7.0,10.0,0.3333333333333333,3414,FULL_TRAIN,10000,adjusted_boxplot
+27_PageBlocks,3414,FULL_DATA_ONLY,1,continuous,387,2.0,536.0,adjusted_boxplot_range,,,19.0,108.0,0.574468085106383,3414,FULL_TRAIN,10000,adjusted_boxplot
+27_PageBlocks,3414,FULL_DATA_ONLY,2,continuous,1052,9.0,25748.0,adjusted_boxplot_range,,,140.0,1008.0,0.6036960985626283,3414,FULL_TRAIN,10000,adjusted_boxplot
+27_PageBlocks,3414,FULL_DATA_ONLY,3,continuous,1067,0.139,263.0,adjusted_boxplot_range,,,2.286,12.32125,0.5310879319386982,3414,FULL_TRAIN,10000,adjusted_boxplot
+27_PageBlocks,3414,FULL_DATA_ONLY,4,continuous,579,0.055,1.0,adjusted_boxplot_range,,,0.259,0.401,0.024999999999999325,3414,FULL_TRAIN,10000,adjusted_boxplot
+27_PageBlocks,3414,FULL_DATA_ONLY,5,continuous,598,0.089,1.0,adjusted_boxplot_range,,,0.68725,0.912,-0.049180327868854366,3414,FULL_TRAIN,10000,adjusted_boxplot
+27_PageBlocks,3414,FULL_DATA_ONLY,6,continuous,570,1.0,207.0,adjusted_boxplot_range,,,1.57,2.63,0.3178294573643412,3414,FULL_TRAIN,10000,adjusted_boxplot
+27_PageBlocks,3414,FULL_DATA_ONLY,7,continuous,862,7.0,9981.0,adjusted_boxplot_range,,,49.0,297.0,0.5366430260047281,3414,FULL_TRAIN,10000,adjusted_boxplot
+27_PageBlocks,3414,FULL_DATA_ONLY,8,continuous,1376,7.0,15523.0,adjusted_boxplot_range,,,113.0,769.75,0.5521557719054242,3414,FULL_TRAIN,10000,adjusted_boxplot
+27_PageBlocks,3414,FULL_DATA_ONLY,9,continuous,502,1.0,1815.0,adjusted_boxplot_range,,,23.0,139.0,0.49122807017543857,3414,FULL_TRAIN,10000,adjusted_boxplot
