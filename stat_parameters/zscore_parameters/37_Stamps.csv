@@ -1,0 +1,10 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+37_Stamps,225,0,continuous,225,0.006224,0.338444,zscore_range,,,0.08698101777777778,0.05446669179460575,zscore
+37_Stamps,225,1,continuous,120,0.0,0.864505,zscore_range,,,0.42122605777777783,0.19960520784439859,zscore
+37_Stamps,225,2,continuous,225,0.002221,1.0,zscore_range,,,0.1380418311111111,0.14458234390192987,zscore
+37_Stamps,225,3,continuous,225,0.053423,1.0,zscore_range,,,0.37395647555555556,0.18279589287623038,zscore
+37_Stamps,225,4,continuous,225,0.224948,1.0,zscore_range,,,0.5864612311111111,0.1888398868609417,zscore
+37_Stamps,225,5,continuous,225,0.002052,1.0,zscore_range,,,0.036611524444444446,0.07688197060008038,zscore
+37_Stamps,225,6,continuous,224,0.174055,1.0,zscore_range,,,0.9411692044444444,0.09598561878370915,zscore
+37_Stamps,225,7,continuous,225,0.003369,0.416588,zscore_range,,,0.05441828,0.06027585201931976,zscore
+37_Stamps,225,8,continuous,225,0.0,1.0,zscore_range,,,0.6122914133333335,0.17929930401328092,zscore

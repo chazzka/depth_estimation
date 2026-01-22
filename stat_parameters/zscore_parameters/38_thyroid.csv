@@ -1,0 +1,7 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+38_thyroid,2574,0,continuous,91,0.0,1.0,zscore_range,,,0.5431256318353086,0.2027150787591629,zscore
+38_thyroid,2574,1,continuous,224,0.0,0.218867924528,zscore_range,,,0.004636612863028293,0.009638598165287088,zscore
+38_thyroid,2574,2,continuous,67,0.0,1.0,zscore_range,,,0.1899980685560508,0.06951114344063651,zscore
+38_thyroid,2574,3,continuous,197,0.0397196261682,0.864485981308,zscore_range,,,0.2529508056844596,0.07493164485077082,zscore
+38_thyroid,2574,4,continuous,135,0.0,0.896713615023,zscore_range,,,0.37691103888289657,0.08848502996802564,zscore
+38_thyroid,2574,5,continuous,249,0.0245901639344,1.0,zscore_range,,,0.18057013387342638,0.05108394280506458,zscore

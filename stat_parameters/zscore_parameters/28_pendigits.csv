@@ -1,0 +1,17 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+28_pendigits,4701,0,continuous,3087,0.0,1.0,zscore_range,,,0.3767213893842104,0.34533281169548846,zscore
+28_pendigits,4701,1,continuous,3433,0.0,1.0,zscore_range,,,0.8414544265567959,0.17280437490511968,zscore
+28_pendigits,4701,2,continuous,4316,0.0,1.0,zscore_range,,,0.437383796827301,0.25325438178646326,zscore
+28_pendigits,4701,3,continuous,2711,0.0828885356307,1.0,zscore_range,,,0.8596445717436141,0.16969511065489523,zscore
+28_pendigits,4701,4,continuous,3551,0.0,1.0,zscore_range,,,0.551618432735781,0.3382828028692255,zscore
+28_pendigits,4701,5,continuous,4158,0.0,1.0,zscore_range,,,0.7071522366138157,0.22301469177125904,zscore
+28_pendigits,4701,6,continuous,3863,0.0,1.0,zscore_range,,,0.515996631326101,0.31097715486499394,zscore
+28_pendigits,4701,7,continuous,3870,0.0,1.0,zscore_range,,,0.4926599379019109,0.29204232506341704,zscore
+28_pendigits,4701,8,continuous,3698,0.0,1.0,zscore_range,,,0.5350449936014371,0.33520506597576005,zscore
+28_pendigits,4701,9,continuous,3700,0.0,1.0,zscore_range,,,0.3447974787605583,0.28165687408853357,zscore
+28_pendigits,4701,10,continuous,3161,0.0,1.0,zscore_range,,,0.5805348094533649,0.3759963736851037,zscore
+28_pendigits,4701,11,continuous,4141,0.0,1.0,zscore_range,,,0.31896332074313605,0.2506279902708252,zscore
+28_pendigits,4701,12,continuous,4406,0.0,1.0,zscore_range,,,0.5460456315936625,0.22331727953565791,zscore
+28_pendigits,4701,13,continuous,3747,0.0,1.0,zscore_range,,,0.29519737570608595,0.28822099243792215,zscore
+28_pendigits,4701,14,continuous,2105,0.0,1.0,zscore_range,,,0.49840776779230733,0.42150613082709737,zscore
+28_pendigits,4701,15,continuous,2432,0.0,1.0,zscore_range,,,0.2328602340060639,0.33375878131465936,zscore

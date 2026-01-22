@@ -1,0 +1,11 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+11_donors,407554,0,continuous,3,0.0,1.0,zscore_range,,,0.1892518983987398,0.35231553139552896,zscore
+11_donors,407554,1,binary_01,2,0.0,1.0,binary_01,0.0,1.0,,,fallback
+11_donors,407554,2,continuous,3,0.0,1.0,zscore_range,,,0.29597696419370195,0.41933977068389117,zscore
+11_donors,407554,3,binary_01,2,0.0,1.0,binary_01,0.0,1.0,,,fallback
+11_donors,407554,4,continuous,3,0.0,1.0,zscore_range,,,0.5030736663362402,0.4578038012338685,zscore
+11_donors,407554,5,continuous,3,0.0,1.0,zscore_range,,,0.7173094099800272,0.4124652949017598,zscore
+11_donors,407554,6,continuous,3,0.0,1.0,zscore_range,,,0.01223787656359648,0.09988877266871489,zscore
+11_donors,407554,7,continuous,101,0.0,1.0,zscore_range,,,0.5136827219460488,0.3017578318933231,zscore
+11_donors,407554,8,continuous,67,0.0,0.715232,zscore_range,,,0.004175386091168287,0.012083002890947065,zscore
+11_donors,407554,9,continuous,121,0.0,0.842105,zscore_range,,,0.013690345372637736,0.01632332198783163,zscore

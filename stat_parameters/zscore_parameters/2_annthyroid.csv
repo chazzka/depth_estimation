@@ -1,0 +1,7 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+2_annthyroid,4707,0,continuous,97,0.01,0.97,zscore_range,,,0.5190398767792649,0.18870095692972147,zscore
+2_annthyroid,4707,1,continuous,218,0.0,0.136,zscore_range,,,0.0021089823666879115,0.004636694179462286,zscore
+2_annthyroid,4707,2,continuous,76,0.0005,0.1329,zscore_range,,,0.0203826216273635,0.007259136473653816,zscore
+2_annthyroid,4707,3,continuous,231,0.005,0.6,zscore_range,,,0.11240074357340131,0.03449939977000543,zscore
+2_annthyroid,4707,4,continuous,147,0.019,0.233,zscore_range,,,0.09788166560441894,0.01915609117580315,zscore
+2_annthyroid,4707,5,continuous,355,0.00415,0.612,zscore_range,,,0.11618590822179732,0.03448960993172407,zscore

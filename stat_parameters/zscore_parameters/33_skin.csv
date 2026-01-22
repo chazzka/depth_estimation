@@ -1,0 +1,4 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+33_skin,135868,0,continuous,256,-2.00890104697837,2.08711254726842,zscore_range,,,0.04772176484484962,1.06557021062979,zscore
+33_skin,135868,1,continuous,256,-2.21062196144006,2.04354732486534,zscore_range,,,-0.0604384838370142,1.072401922530527,zscore
+33_skin,135868,2,continuous,256,-1.69753963112132,1.81668848464312,zscore_range,,,-0.28986286440079867,0.8851152028870052,zscore

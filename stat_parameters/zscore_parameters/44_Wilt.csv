@@ -1,0 +1,6 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+44_Wilt,3216,0,continuous,3194,0.0,183.28125,zscore_range,,,126.7611504754944,13.751401340792821,zscore
+44_Wilt,3216,1,continuous,2916,117.2105263,1848.916667,zscore_range,,,233.6233349517102,66.89251917449891,zscore
+44_Wilt,3216,2,continuous,2841,50.57894737,1594.583333,zscore_range,,,116.79368119436256,66.01364258867598,zscore
+44_Wilt,3216,3,continuous,3132,86.5,1597.333333,zscore_range,,,534.5065002193408,156.64041932984026,zscore
+44_Wilt,3216,4,continuous,3209,0.0,154.5732476,zscore_range,,,24.72205050729851,10.586325719966107,zscore

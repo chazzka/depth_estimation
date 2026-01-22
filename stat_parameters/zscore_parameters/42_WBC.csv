@@ -1,0 +1,10 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+42_WBC,158,0,categorical_low_card,7,1.0,8.0,minmax,1.0,8.0,,,fallback
+42_WBC,158,1,categorical_low_card,6,1.0,8.0,minmax,1.0,8.0,,,fallback
+42_WBC,158,2,categorical_low_card,8,1.0,8.0,minmax,1.0,8.0,,,fallback
+42_WBC,158,3,categorical_low_card,6,1.0,6.0,minmax,1.0,6.0,,,fallback
+42_WBC,158,4,categorical_low_card,8,1.0,10.0,minmax,1.0,10.0,,,fallback
+42_WBC,158,5,categorical_low_card,8,1.0,10.0,minmax,1.0,10.0,,,fallback
+42_WBC,158,6,categorical_low_card,7,1.0,7.0,minmax,1.0,7.0,,,fallback
+42_WBC,158,7,categorical_low_card,8,1.0,8.0,minmax,1.0,8.0,,,fallback
+42_WBC,158,8,categorical_low_card,5,1.0,7.0,minmax,1.0,7.0,,,fallback

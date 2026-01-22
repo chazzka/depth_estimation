@@ -1,0 +1,7 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+23_mammography,7617,0,continuous,4091,-0.78441482,16.186909,zscore_range,,,-0.008112012482131286,0.9623813334224626,zscore
+23_mammography,7617,1,continuous,778,-0.47019533,5.0858491,zscore_range,,,0.011148575129171574,1.0242655366392794,zscore
+23_mammography,7617,2,continuous,142,-0.59163147,23.977818,zscore_range,,,0.0003651026482867107,0.9483313430364508,zscore
+23_mammography,7617,3,continuous,2204,-0.85955255,7.8645679,zscore_range,,,-0.034225440545779175,0.9542764770345936,zscore
+23_mammography,7617,4,continuous,1256,-0.37786573,6.3690597,zscore_range,,,-0.0707465617854877,0.7198522843598237,zscore
+23_mammography,7617,5,continuous,522,-0.94572324,1.9490273,zscore_range,,,-0.02229334769917287,0.9923639331143551,zscore

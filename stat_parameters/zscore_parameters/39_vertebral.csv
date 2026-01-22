@@ -1,0 +1,7 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+39_vertebral,153,0,continuous,152,26.15,118.14,zscore_range,,,64.51849673202614,17.279096698250914,zscore
+39_vertebral,153,1,continuous,146,-6.55,49.43,zscore_range,,,19.51529411764706,10.347969524477152,zscore
+39_vertebral,153,2,continuous,148,14.0,125.74,zscore_range,,,57.35013071895425,19.805998397756476,zscore
+39_vertebral,153,3,continuous,145,13.37,79.7,zscore_range,,,45.00359477124182,13.877715743852164,zscore
+39_vertebral,153,4,continuous,152,70.08,163.07,zscore_range,,,115.458954248366,14.327075932958424,zscore
+39_vertebral,153,5,continuous,153,-10.68,124.98,zscore_range,,,35.62392156862745,29.443726480623063,zscore

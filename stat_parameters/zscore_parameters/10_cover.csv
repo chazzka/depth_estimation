@@ -1,0 +1,11 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+10_cover,198346,0,continuous,1222,2142.0,3433.0,zscore_range,,,2920.5706492694585,186.44350396966203,zscore
+10_cover,198346,1,continuous,361,0.0,360.0,zscore_range,,,152.06063142185877,107.72442320072825,zscore
+10_cover,198346,2,continuous,65,0.0,66.0,zscore_range,,,13.535675032518931,7.104421894837923,zscore
+10_cover,198346,3,continuous,535,0.0,1397.0,zscore_range,,,279.3356558740786,209.84668930407477,zscore
+10_cover,198346,4,continuous,653,-173.0,601.0,zscore_range,,,45.7924787996733,57.24348794370664,zscore
+10_cover,198346,5,continuous,5722,0.0,7117.0,zscore_range,,,2430.6902533955813,1618.4296542790069,zscore
+10_cover,198346,6,continuous,201,0.0,254.0,zscore_range,,,213.8402085244976,24.908008133793118,zscore
+10_cover,198346,7,continuous,168,0.0,254.0,zscore_range,,,225.33385598902927,18.51532270819137,zscore
+10_cover,198346,8,continuous,254,0.0,253.0,zscore_range,,,142.99928407933612,36.19403593987257,zscore
+10_cover,198346,9,continuous,5638,0.0,7173.0,zscore_range,,,2169.788904238049,1424.7915422515568,zscore

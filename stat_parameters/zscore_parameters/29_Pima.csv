@@ -1,0 +1,9 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,mean,std,param_strategy
+29_Pima,343,0,categorical_low_card,14,0.0,13.0,minmax,0.0,13.0,,,fallback
+29_Pima,343,1,continuous,103,0.0,193.0,zscore_range,,,111.03498542274052,26.090087266454592,zscore
+29_Pima,343,2,continuous,40,0.0,110.0,zscore_range,,,68.72303206997084,17.955458986743487,zscore
+29_Pima,343,3,continuous,44,0.0,54.0,zscore_range,,,19.28862973760933,14.601651895045025,zscore
+29_Pima,343,4,continuous,112,0.0,680.0,zscore_range,,,71.14285714285714,101.72749856855116,zscore
+29_Pima,343,5,continuous,170,0.0,52.3,zscore_range,,,30.459183673469386,7.209042057046013,zscore
+29_Pima,343,6,continuous,279,0.085,1.781,zscore_range,,,0.42448104956268223,0.27263019532292065,zscore
+29_Pima,343,7,continuous,47,21.0,81.0,zscore_range,,,30.81924198250729,11.269659596178922,zscore
