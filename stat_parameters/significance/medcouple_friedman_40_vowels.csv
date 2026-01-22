@@ -1,0 +1,2 @@
+dataset,n_train,mc_sizes,n_blocks,k_treatments,friedman_stat,p_value,alpha,verdict,delta_mc_median,delta_mc_p95,effective_mc_regime,mc_export_n
+40_vowels,1001,1000;2000;5000;10000,0,4,0.0,1.0,0.05,FULL_DATA_EXACT_ESTIMATOR,0.0,0.0,FULL_DATA_ONLY,10000

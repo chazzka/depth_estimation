@@ -1,0 +1,2 @@
+dataset,n_train,mc_sizes,n_blocks,k_treatments,friedman_stat,p_value,alpha,verdict,delta_mc_median,delta_mc_p95,effective_mc_regime,mc_export_n
+5_campaign,25495,1000;2000;5000;10000,10,4,0.7500000000000283,0.861385080404535,0.05,NO_SIGNIFICANT_DIFFERENCE_STABLE,0.0,0.0023776758600494562,SUBSAMPLE_REGIME,10000
