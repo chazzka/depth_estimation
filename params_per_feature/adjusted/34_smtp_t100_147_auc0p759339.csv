@@ -1,0 +1,4 @@
+dataset,tag,run_id,method,feature_index,param_opt,final_auc,grid
+34_smtp,t100,147,adjusted,0,0.00000000,0.75933927,"NONRELEVANT:DISCRETE_FALLBACK_MINMAX"
+34_smtp,t100,147,adjusted,1,1.25000000,0.75933927,"0.75;1;1.25;1.5;1.75;2;2.5;3"
+34_smtp,t100,147,adjusted,2,0.00000000,0.75933927,"NONRELEVANT:DISCRETE_FALLBACK_MINMAX"
