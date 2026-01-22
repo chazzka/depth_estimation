@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "This is a dataset for article (add doi once published)."
+authors:
+  - family-names: Ulrich
+    given-names: Adam
+    orcid: https://orcid.org/0000-0001-6935-8244
+title: "Depth Estimation in Half-Space Trees and Feature
+Range Formulation for Novelty Detection"
+version: 1.0.0
+//identifiers:
+  //- type: doi
+    //value: 0000
+date-released: 2026-01-22
