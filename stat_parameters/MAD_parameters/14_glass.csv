@@ -1,0 +1,8 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+14_glass,146,0,continuous,145,0.214517,1.0,mad_range,,,0.489392,0.0806334249,mad
+14_glass,146,1,continuous,145,0.0,0.913613,mad_range,,,0.41796049999999996,0.11617505339999996,mad
+14_glass,146,2,continuous,118,0.0,1.0,mad_range,,,0.7695955,0.054123054300000036,mad
+14_glass,146,3,continuous,145,0.0,0.848905,mad_range,,,0.314639,0.088103505,mad
+14_glass,146,4,continuous,145,0.0,0.913724,mad_range,,,0.7841895,0.10333796129999999,mad
+14_glass,146,5,continuous,131,0.0,1.0,mad_range,,,0.087118,0.020703026400000005,mad
+14_glass,146,6,continuous,145,0.092204,1.0,mad_range,,,0.2811165,0.05588586569999998,mad

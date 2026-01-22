@@ -1,0 +1,7 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+23_mammography,7617,0,continuous,4091,-0.78441482,16.186909,mad_range,,,-0.1104401,0.8068715284139999,mad
+23_mammography,7617,1,continuous,778,-0.47019533,5.0858491,mad_range,,,-0.3949941,0.111493343598,mad
+23_mammography,7617,2,continuous,142,-0.59163147,23.977818,mad_range,,,-0.230979,0.534703352022,mad
+23_mammography,7617,3,continuous,2204,-0.85955255,7.8645679,mad_range,,,-0.85955255,0.0,mad
+23_mammography,7617,4,continuous,1256,-0.37786573,6.3690597,mad_range,,,-0.37786573,0.0,mad
+23_mammography,7617,5,continuous,522,-0.94572324,1.9490273,mad_range,,,-0.94572324,0.0,mad

@@ -1,0 +1,7 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+38_thyroid,2574,0,continuous,91,0.0,1.0,mad_range,,,0.569892473118,0.2391290322585907,mad
+38_thyroid,2574,1,continuous,224,0.0,0.218867924528,mad_range,,,0.00283018867925,0.0025176226415136297,mad
+38_thyroid,2574,2,continuous,67,0.0,1.0,mad_range,,,0.190702087287,0.036572675522111395,mad
+38_thyroid,2574,3,continuous,197,0.0397196261682,0.864485981308,mad_range,,,0.245327102804,0.058888317756676814,mad
+38_thyroid,2574,4,continuous,135,0.0,0.896713615023,mad_range,,,0.37558685446,0.06264507042289016,mad
+38_thyroid,2574,5,continuous,249,0.0245901639344,1.0,mad_range,,,0.175409836066,0.03645737704854842,mad

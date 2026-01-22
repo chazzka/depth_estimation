@@ -1,0 +1,4 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+33_skin,135868,0,continuous,256,-2.00890104697837,2.08711254726842,mad_range,,,0.416581512752083,1.0002176066779265,mad
+33_skin,135868,1,continuous,256,-2.21062196144006,2.04354732486534,mad_range,,,0.358562627152218,0.9399011474011872,mad
+33_skin,135868,2,continuous,256,-1.69753963112132,1.81668848464312,mad_range,,,-0.112691657345196,0.8377175638499085,mad

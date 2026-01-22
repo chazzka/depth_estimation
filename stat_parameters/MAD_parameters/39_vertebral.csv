@@ -1,0 +1,7 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+39_vertebral,153,0,continuous,152,26.15,118.14,mad_range,,,65.67,19.970622,mad
+39_vertebral,153,1,continuous,146,-6.55,49.43,mad_range,,,19.01,9.592422000000003,mad
+39_vertebral,153,2,continuous,148,14.0,125.74,mad_range,,,57.2,21.245658000000006,mad
+39_vertebral,153,3,continuous,145,13.37,79.7,mad_range,,,46.17,15.596951999999993,mad
+39_vertebral,153,4,continuous,152,70.08,163.07,mad_range,,,116.38,11.475324000000013,mad
+39_vertebral,153,5,continuous,153,-10.68,124.98,mad_range,,,32.67,34.218408,mad

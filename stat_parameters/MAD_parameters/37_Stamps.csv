@@ -1,0 +1,10 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+37_Stamps,225,0,continuous,225,0.006224,0.338444,mad_range,,,0.075078,0.04177522020000001,mad
+37_Stamps,225,1,continuous,120,0.0,0.864505,mad_range,,,0.425226,0.0967411326,mad
+37_Stamps,225,2,continuous,225,0.002221,1.0,mad_range,,,0.0872,0.0817179468,mad
+37_Stamps,225,3,continuous,225,0.053423,1.0,mad_range,,,0.327288,0.1715976066,mad
+37_Stamps,225,4,continuous,225,0.224948,1.0,mad_range,,,0.559074,0.20103611219999995,mad
+37_Stamps,225,5,continuous,225,0.002052,1.0,mad_range,,,0.01732,0.014415319799999998,mad
+37_Stamps,225,6,continuous,224,0.174055,1.0,mad_range,,,0.976827,0.02647923599999998,mad
+37_Stamps,225,7,continuous,225,0.003369,0.416588,mad_range,,,0.037161,0.024686772599999997,mad
+37_Stamps,225,8,continuous,225,0.0,1.0,mad_range,,,0.616133,0.16345516740000005,mad

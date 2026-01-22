@@ -1,0 +1,11 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+11_donors,407554,0,continuous,3,0.0,1.0,mad_range,,,0.0,0.0,mad
+11_donors,407554,1,binary_01,2,0.0,1.0,binary_01,0.0,1.0,,,fallback
+11_donors,407554,2,continuous,3,0.0,1.0,mad_range,,,0.0,0.0,mad
+11_donors,407554,3,binary_01,2,0.0,1.0,binary_01,0.0,1.0,,,fallback
+11_donors,407554,4,continuous,3,0.0,1.0,mad_range,,,0.481114,0.7132996164,mad
+11_donors,407554,5,continuous,3,0.0,1.0,mad_range,,,1.0,0.0,mad
+11_donors,407554,6,continuous,3,0.0,1.0,mad_range,,,0.0,0.0,mad
+11_donors,407554,7,continuous,101,0.0,1.0,mad_range,,,0.529271,0.19381881539999996,mad
+11_donors,407554,8,continuous,67,0.0,0.715232,mad_range,,,0.0,0.0,mad
+11_donors,407554,9,continuous,121,0.0,0.842105,mad_range,,,0.009868,0.006639082799999999,mad

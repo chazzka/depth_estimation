@@ -1,0 +1,7 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+2_annthyroid,4707,0,continuous,97,0.01,0.97,mad_range,,,0.54,0.22239000000000003,mad
+2_annthyroid,4707,1,continuous,218,0.0,0.136,mad_range,,,0.0015,0.001215732,mad
+2_annthyroid,4707,2,continuous,76,0.0005,0.1329,mad_range,,,0.0201,0.0031134600000000015,mad
+2_annthyroid,4707,3,continuous,231,0.005,0.6,mad_range,,,0.109,0.0252042,mad
+2_annthyroid,4707,4,continuous,147,0.019,0.233,mad_range,,,0.097,0.01334340000000001,mad
+2_annthyroid,4707,5,continuous,355,0.00415,0.612,mad_range,,,0.11207,0.023617818,mad

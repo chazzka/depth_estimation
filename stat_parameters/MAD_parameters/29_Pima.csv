@@ -1,0 +1,9 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+29_Pima,343,0,categorical_low_card,14,0.0,13.0,minmax,0.0,13.0,,,fallback
+29_Pima,343,1,continuous,103,0.0,193.0,mad_range,,,108.0,23.7216,mad
+29_Pima,343,2,continuous,40,0.0,110.0,mad_range,,,70.0,11.8608,mad
+29_Pima,343,3,continuous,44,0.0,54.0,mad_range,,,20.0,16.3086,mad
+29_Pima,343,4,continuous,112,0.0,680.0,mad_range,,,43.0,63.751799999999996,mad
+29_Pima,343,5,continuous,170,0.0,52.3,mad_range,,,30.1,7.116480000000001,mad
+29_Pima,343,6,continuous,279,0.085,1.781,mad_range,,,0.347,0.21942480000000003,mad
+29_Pima,343,7,continuous,47,21.0,81.0,mad_range,,,26.0,5.9304,mad

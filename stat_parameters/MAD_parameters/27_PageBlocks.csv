@@ -1,0 +1,11 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+27_PageBlocks,3414,0,continuous,44,1.0,87.0,mad_range,,,8.0,1.4826,mad
+27_PageBlocks,3414,1,continuous,387,2.0,536.0,mad_range,,,42.0,44.477999999999994,mad
+27_PageBlocks,3414,2,continuous,1052,9.0,25748.0,mad_range,,,353.0,397.3368,mad
+27_PageBlocks,3414,3,continuous,1067,0.139,263.0,mad_range,,,5.1485,5.2239411,mad
+27_PageBlocks,3414,4,continuous,579,0.055,1.0,mad_range,,,0.33,0.1052646,mad
+27_PageBlocks,3414,5,continuous,598,0.089,1.0,mad_range,,,0.8,0.16679250000000007,mad
+27_PageBlocks,3414,6,continuous,570,1.0,207.0,mad_range,,,1.98,0.711648,mad
+27_PageBlocks,3414,7,continuous,862,7.0,9981.0,mad_range,,,116.0,124.5384,mad
+27_PageBlocks,3414,8,continuous,1376,7.0,15523.0,mad_range,,,284.0,309.86339999999996,mad
+27_PageBlocks,3414,9,continuous,502,1.0,1815.0,mad_range,,,57.0,62.2692,mad

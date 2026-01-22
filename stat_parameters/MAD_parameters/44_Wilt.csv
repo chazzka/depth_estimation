@@ -1,0 +1,6 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+44_Wilt,3216,0,continuous,3194,0.0,183.28125,mad_range,,,127.51858455,12.138877049040003,mad
+44_Wilt,3216,1,continuous,2916,117.2105263,1848.916667,mad_range,,,221.0,26.428468143629985,mad
+44_Wilt,3216,2,continuous,2841,50.57894737,1594.583333,mad_range,,,100.85615765,17.201529579149994,mad
+44_Wilt,3216,3,continuous,3132,86.5,1597.333333,mad_range,,,531.3395122,164.22253395429,mad
+44_Wilt,3216,4,continuous,3209,0.0,154.5732476,mad_range,,,23.55623225,8.705267488848001,mad

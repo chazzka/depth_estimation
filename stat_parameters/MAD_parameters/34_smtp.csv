@@ -1,0 +1,4 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+34_smtp,66620,0,continuous,197,-2.302585092994045,6.240470757947919,mad_range,,,0.095310179804325,3.5551195314508637,mad
+34_smtp,66620,1,continuous,5521,3.261935314328648,12.43225198417551,mad_range,,,7.102581656914566,0.4688859077696445,mad
+34_smtp,66620,2,continuous,542,-2.302585092994045,10.902723238029274,mad_range,,,5.805436128382701,0.017750586172077306,mad

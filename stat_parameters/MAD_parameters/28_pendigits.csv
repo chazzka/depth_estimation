@@ -1,0 +1,17 @@
+dataset,n_train,feature_index,feature_class,unique_count,min_train,max_train,range_strategy,range_l,range_u,median,scaled_mad,param_strategy
+28_pendigits,4701,0,continuous,3087,0.0,1.0,mad_range,,,0.308589694228,0.45751508066243274,mad
+28_pendigits,4701,1,continuous,3433,0.0,1.0,mad_range,,,0.88456140702,0.17114925795214803,mad
+28_pendigits,4701,2,continuous,4316,0.0,1.0,mad_range,,,0.429776994726,0.255480491332038,mad
+28_pendigits,4701,3,continuous,2711,0.0828885356307,1.0,mad_range,,,0.940787807703,0.08778799629953224,mad
+28_pendigits,4701,4,continuous,3551,0.0,1.0,mad_range,,,0.616717023665,0.40383047560705915,mad
+28_pendigits,4701,5,continuous,4158,0.0,1.0,mad_range,,,0.73951187827,0.23941574673211435,mad
+28_pendigits,4701,6,continuous,3863,0.0,1.0,mad_range,,,0.545557966272,0.35200519938959757,mad
+28_pendigits,4701,7,continuous,3870,0.0,1.0,mad_range,,,0.470389633343,0.2825045538086604,mad
+28_pendigits,4701,8,continuous,3698,0.0,1.0,mad_range,,,0.547521563519,0.4362294958826784,mad
+28_pendigits,4701,9,continuous,3700,0.0,1.0,mad_range,,,0.341474772913,0.37740735190284413,mad
+28_pendigits,4701,10,continuous,3161,0.0,1.0,mad_range,,,0.692998057636,0.45516107974886644,mad
+28_pendigits,4701,11,continuous,4141,0.0,1.0,mad_range,,,0.270719432234,0.3093796913025626,mad
+28_pendigits,4701,12,continuous,4406,0.0,1.0,mad_range,,,0.524976576074,0.18858277179023944,mad
+28_pendigits,4701,13,continuous,3747,0.0,1.0,mad_range,,,0.251380275664,0.2523195965594329,mad
+28_pendigits,4701,14,continuous,2105,0.0,1.0,mad_range,,,0.476389306679,0.7062947860822854,mad
+28_pendigits,4701,15,continuous,2432,0.0,1.0,mad_range,,,0.0437122778552,0.06480782314811952,mad
